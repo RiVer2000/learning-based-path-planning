@@ -13,7 +13,7 @@ setup(name="planning_datasets_utils",
       author_email="ryo.yonetani@sinicx.com",
       url="https://github.com/omron-sinicx/planning-datasets",
       install_requires=[
-          "torch==1.8.2",
+          "torch==1.13.1",
           "numpy==1.22.0",
           "tqdm==4.42.1",
           "natsort==7.0.1",
