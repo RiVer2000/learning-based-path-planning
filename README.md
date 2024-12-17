@@ -1,6 +1,9 @@
 # Path Planning
----
+
 This project is our implementatin of the paper [One-Shot Multi-Path Planning for Robotic Applications Using Fully Convolutional Networks](https://ieeexplore.ieee.org/document/9196719)
+
+## Problem Statement
+In this project we aim to improve on the computation time of the traditional A* search algorithm with Neural Networks. We demonstrate that our method is able to successfully generate optimal or close to optimal paths.
 
 ## Architecture
 <img src="Architecture.png" alt="drawing" width="500"/>
